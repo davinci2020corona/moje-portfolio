@@ -1,4 +1,4 @@
-header {
-        background: image(src="../moje-portfolio/img/header.jpg" ) no-repeat;
+.background-image {
+        background-image: src ("../moje-portfolio/img/header.jpg" ) no-repeat;
         background-size: cover;
 }
