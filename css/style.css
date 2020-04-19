@@ -52,3 +52,19 @@ font-weight: 400;
 text-transform: uppercase;
 
 }
+
+/*Portfolio section styles*/
+
+.portfolio {
+
+}
+
+.portfolio-wrapper {
+display: flex;
+flex-wrap: wrap;
+
+}
+.portfolio-wrapper .portfolio-item {
+    flex-basis: 25% ;
+   height: 200px;
+}
